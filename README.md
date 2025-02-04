@@ -9,6 +9,9 @@ Flask (for backend development)
 Gradio (for UI)
 Git (for version control)
 
+**Server** 
+visit and log in: www.googlecolab.com
+
 **Installation**
 Clone this repository: git clone https://github.com/your-username/project-name.git
 Navigate to the project directory: cd project-name
