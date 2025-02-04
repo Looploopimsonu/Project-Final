@@ -26,23 +26,29 @@ Then, open http://localhost:5000 in your browser.
 **Project Working**: 
 
 **Step-by-Step Guide**:
+
 **Step 1**: Setup & Installation
 Install Anaconda (for Jupyter Notebook) or set up Google Colab (if using cloud-based execution).
 Install required libraries using pip or conda: pip install numpy pandas matplotlib seaborn scikit-learn keras flask gradio nltk
 Install Git for version control (if needed): sudo apt install git  # Linux  brew install git  # macOS  
+
 **Step 2**: Data Preparation & Storage
 Store datasets in CSV format and upload them to Google Drive (for cloud-based execution in Colab).
 Load datasets into Pandas DataFrames for processing.
+
 **Step 3**: Data Analysis & Feature Engineering
 Perform exploratory data analysis (EDA) using Matplotlib & Seaborn.
 Apply customer segmentation techniques using Scikit-learn (K-means, hierarchical clustering, etc.).
 Perform sentiment analysis on reviews using NLTK.
+
 **Step 4**: Model Training & Evaluation
 Train predictive models using Keras (Deep Learning) and Scikit-learn (ML models like Decision Trees, Random Forests, etc.).
 Evaluate model performance using metrics like accuracy, precision, recall, F1-score.
+
 **Step 5**: Web Application Development
 Build a Flask-based backend for the web application.
 Create an interactive frontend using Gradio to display insights.
+
 **Step 6**: Deployment & Testing
 Deploy the trained model using Flask API or Gradio UI.
 Test the application using real-time user data and optimize performance.
