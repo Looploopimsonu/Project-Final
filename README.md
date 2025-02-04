@@ -24,6 +24,7 @@ For Running the Web App: python app.py
 Then, open http://localhost:5000 in your browser.
 
 **Project Working**: 
+
 **Step-by-Step Guide**:
 **Step 1**: Setup & Installation
 Install Anaconda (for Jupyter Notebook) or set up Google Colab (if using cloud-based execution).
