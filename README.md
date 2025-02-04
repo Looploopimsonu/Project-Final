@@ -1,4 +1,5 @@
 **Market Basket Analysis and Customer Segmentation in E-Commerce using Data Analytics with Distributed System**
+
 This project focuses on market basket analysis and customer segmentation using data analytics and distributed systems. The system leverages machine learning models, sentiment analysis, and predictive analytics to analyze customer behavior, recommend products, and optimize sales strategies.
 
 **Getting Started**
